@@ -1,4 +1,4 @@
-# E-Commerce web application
+# TechCommerce-Virtual Shopping Portal
 Welcome to our eCommerce project! This project aims to create a fully functional eCommerce website where users can browse products, add them to their cart, and complete purchases.
 
 ## Technologies Used
